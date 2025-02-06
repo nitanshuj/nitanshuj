@@ -13,5 +13,5 @@ Database: Google BigQuery, PostgreSQL, MySQL
 Visualization: Tableau, Looker Studio
 
 ### 👋🏻 Connect with Me
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
-Hire me on Upwork
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nitanshu-joshi-ds/)
+
