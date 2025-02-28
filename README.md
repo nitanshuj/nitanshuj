@@ -1,6 +1,6 @@
 ## About Myself
 
-**Data Scientist** with 2.5+ years of experience building scalable machine learning systems and data pipelines. Specializing in:  
+**Data Scientist** with 2+ years of experience building scalable machine learning systems and data pipelines. Specializing in:  
 - End-to-end ML solutions for recommendation systems, fraud detection, and genomic insights  
 - Cloud-native architectures (AWS, Azure) with MLOps integration  
 - Real-time analytics pipelines and automated workflows  
