@@ -4,10 +4,18 @@
 
 🇮🇳 India &nbsp;|&nbsp; 📞 (+91) 92861-63890 &nbsp;|&nbsp; 📧 [nitanshuj138.us@gmail.com](mailto:nitanshuj138.us@gmail.com)  📧 [nitanshuj138@gmail.com](mailto:nitanshuj138@gmail.com)  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A73E8?style=flat&logo=Google-Chrome&logoColor=white)](https://nitanshuj.github.io/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitanshu-joshi-ds/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nitanshuj) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@nitanshuj138)
+<a href="https://nitanshuj.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-1A73E8?style=flat&logo=Google-Chrome&logoColor=white" height="40">
+</a>
+<a href="https://www.linkedin.com/in/nitanshu-joshi-ds/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="40">
+</a>
+<a href="https://github.com/nitanshuj">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="40">
+</a>
+<a href="https://medium.com/@nitanshuj138">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" height="40">
+</a>
 
 </div>
 
