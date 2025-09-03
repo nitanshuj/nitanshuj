@@ -2,7 +2,7 @@
 
 # 🚀 Nitanshu Joshi · Data Scientist | AI Engineer
 
-🇮🇳 India &nbsp;|&nbsp; 📞 (+91) 92861-63890 &nbsp;|&nbsp; 📧 [nitanshuj138.us@gmail.com](mailto:nitanshuj138.us@gmail.com)  
+🇮🇳 India &nbsp;|&nbsp; 📞 (+91) 92861-63890 &nbsp;|&nbsp; 📧 [nitanshuj138.us@gmail.com](mailto:nitanshuj138.us@gmail.com)  📧 [nitanshuj138@gmail.com](mailto:nitanshuj138@gmail.com)  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A73E8?style=flat&logo=Google-Chrome&logoColor=white)](https://nitanshuj.github.io/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitanshu-joshi-ds/) 
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Enthusiastic **Data Scientist** with 2 years’ experience designing and deploying LLM/NLP apps, vector-search recommendations, and **AI/ML solutions** that have:
+Result-Driven **Data Scientist** with 2 years’ experience designing & deploying AI/ML apps, vector-search recommendation systems, and **AI/ML solutions** that have:
 - Boosted user retention 📈
 - Reduced churn 💡
 - Delivered actionable, data-driven impact for startups and research labs  
@@ -28,16 +28,11 @@ Enthusiastic **Data Scientist** with 2 years’ experience designing and deployi
 
 ## 🌟 Achievements
 
-- 🧭 **Vector Search Recommender (GradMeet):** 
-  Deployed on AWS EC2, bringing in **500+ users** and powering a **20% engagement increase**
-- 🧬 **Genomics Analytics:**  
-  Improved cluster quality by **18%** (Silhouette), **68%** (Davies-Bouldin)
-- 🦾 **Drug Synergy GNN:**  
-  Integrated 23K drug–cell line pairs, reducing RMSE by **7%**, boosting explainability by 2%
-- 🤝 **Churn Reduction:**  
-  Cut churn by **15%** via Power BI dashboards and A/B tests
-- 🦠 **COVID Lab Analytics:**  
-  Analyzed **35K+ PCR records**; led to **30%** faster turnaround and **40%** less backlog
+- 🧭 **Vector Search Recommender (GradMeet):** --> Deployed on AWS EC2, bringing in **500+ users** and powering a **20% engagement increase**
+- 🧬 **Genomics Analytics:** --> Improved cluster quality by **18%** (Silhouette), **68%** (Davies-Bouldin)
+- 🦾 **Drug Synergy GNN:** --> Integrated 23K drug–cell line pairs, reducing RMSE by **7%**, boosting explainability by 2%
+- 🤝 **Churn Reduction:**  --> Cut churn by **15%** via Power BI dashboards and A/B tests
+- 🦠 **COVID Lab Analytics:** --> Analyzed **35K+ PCR records**; led to **30%** faster turnaround and **40%** less backlog
 
 ---
 
