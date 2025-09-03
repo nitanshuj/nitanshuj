@@ -67,8 +67,9 @@ Result-Driven **Data Scientist** with 2 years’ experience designing & deployin
 
 ## 🛠️ Skills at a Glance
 
-| 🗣️ Languages      | **Python** (PySpark, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch), **SQL**          |
+|   Categories      | ** Skills **          |
 |-------------------|-----------------------------------------------------------------------------------------|
+| 🗣️ Languages      | Python (PySpark, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch), SQL         |
 | 🤖 Gen AI         | Hugging Face, Langchain, LLM (LORA/QLORA/PEFT), Crew AI, Quantization, LangGraph        |
 | ☁️ Cloud/Ops      | AWS (EC2, ECS, Lambda, SageMaker, Bedrock), Azure, Streamlit, Docker, CI/CD, MLOps      |
 | 🏗 Data Eng/Ops   | Spark, Airflow, Kafka, MySQL, PostgreSQL, MongoDB, ETL, Vector DB (FAISS/TypeSense)     |
